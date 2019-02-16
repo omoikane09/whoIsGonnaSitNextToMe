@@ -1,0 +1,16 @@
+{
+  "name": "whoisgonnasitnexttome",
+  "version": "1.0.0",
+  "description": "find out who is gonna be my next pair, and pair list",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "lint": "eslint **.js",
+    "prettier": "prettier **.js"
+  },
+  "author": "Rockheung",
+  "devDependencies": {
+    "eslint": "^5.14.0",
+    "prettier": "^1.16.4"
+  }
+}
